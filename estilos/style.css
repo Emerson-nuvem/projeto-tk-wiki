@@ -19,7 +19,10 @@ main, header{
     height: 100vh;
     margin: auto;
     text-align: justify;
-    padding: 20px;
 
+}
+
+main{
+    padding: 20px;
 }
 
